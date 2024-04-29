@@ -10,6 +10,7 @@ namespace ConsoleAppGitDay2VS
              Console.WriteLine("remote changes ");
                Console.WriteLine("Git Hub ");
             Console.WriteLine("local changes");
+            Console.WriteLine("Priority work completed");
         }
     }
 }
