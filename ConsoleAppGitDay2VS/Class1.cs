@@ -8,5 +8,9 @@ namespace ConsoleAppGitDay2VS
 {
     internal class Class1
     {
+        static void Main()
+        {
+            Console.WriteLine("new program");
+        }       
     }
 }
