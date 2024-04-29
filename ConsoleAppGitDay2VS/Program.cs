@@ -1,4 +1,5 @@
-﻿namespace ConsoleAppGitDay2VS
+
+namespace ConsoleAppGitDay2VS
 {
     internal class Program
     {
@@ -7,6 +8,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("first change");
              Console.WriteLine("remote changes ");
+               Console.WriteLine("Git Hub ");
             Console.WriteLine("local changes");
         }
     }
